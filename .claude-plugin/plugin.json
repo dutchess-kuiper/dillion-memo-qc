@@ -1,0 +1,11 @@
+{
+  "name": "dillion-memo-qc",
+  "description": "Expose contradictions, evidence gaps, and arithmetic failures in FDD diligence memos. Internal QC (single doc) and Cross QC (two docs) with ranked findings, severity grading, and minimal artifact requests.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dutchess Kuiper"
+  },
+  "repository": "https://github.com/dutchess-kuiper/dillion-memo-qc",
+  "license": "MIT",
+  "keywords": ["fdd", "diligence", "memo", "qc", "quality-control", "financial", "contradictions", "reconciliation"]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "dillion-memo-qc",
+  "owner": {
+    "name": "Dutchess Kuiper"
+  },
+  "metadata": {
+    "description": "Dillion Memo QC skill for Claude Code — diligence memo quality control",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "dillion-memo-qc",
+      "source": {
+        "source": "github",
+        "repo": "dutchess-kuiper/dillion-memo-qc"
+      },
+      "description": "Expose contradictions, evidence gaps, and arithmetic failures in FDD diligence memos with ranked findings and severity grading.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Dutchess Kuiper"
+      }
+    }
+  ]
+}
